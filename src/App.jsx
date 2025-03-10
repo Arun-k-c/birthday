@@ -135,17 +135,17 @@ const BirthdayWishWebsite = () => {
               </div>
               
               <p className="text-2xl text-purple-800 mb-4 font-medium">
-                Dear Rajaji,
+                Dear Rajani Babe💖,
               </p>
               <div className="text-md md:text-lg text-purple-700 mb-6 leading-relaxed space-y-4 px-4 py-2 bg-white bg-opacity-50 rounded-xl">
                 <p>
-                  Thank you for being the reason behind my smiles, for understanding me like no one else can, and for standing with me.
+                  Thank you for being the reason behind my smiles, for understanding me like no one else can, and for standing with me💖.
                 </p>
                 <p>
-                  You are my blessing from the universe, my proof that miracles do happen. I will always be grateful for that day I found you.
+                  You are my blessing from the universe, my proof that miracles do happen. I will always be grateful for that day I found you💖.
                 </p>
                 <p>
-                  Today is all about celebrating you, the beautiful soul. Have the most amazing birthday—you deserve nothing less.
+                  Today is all about celebrating you, the beautiful soul. Have the most amazing birthday—you deserve nothing less💖.
                 </p>
               </div>
               <div className="mb-6 text-4xl md:text-6xl flex justify-center space-x-4 animate-bounce">
